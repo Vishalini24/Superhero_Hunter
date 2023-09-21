@@ -11,6 +11,5 @@ This project is a Superhero hunter using HTML,CSS and Vanilla JavaScript. In thi
 You can input any marvel character in the search box. Based on the input, first five relevant results are displayed. Each result has a thumbnail picture of the character along with name and favourites button. The favourites button will be "Add to Favourites" or "Remove from Favourites" based on whether it is present in the favourites list or not.If you click on the name of any character it will take you to the "Superhero Page". This page will display the entire description of the character. You will  have the  "Add to Favourites" or "Remove from Favourites" button here as well. Then is the "Favourites" Page where a list of all favourite characters will be displayed. You can learn more about them by clickong on "More Info" button. You can remove these characters from the favourites list. All changes made will be instantly reflected. I have attached the screenshot for your reference.
 
 ## Screenshot
-
-
+<img width="958" alt="Screenshot" src="https://github.com/Vishalini24/Superhero_Hunter/assets/63181262/aa9d35de-5b57-4e05-8967-7b387c8db72e">
 
