@@ -12,4 +12,5 @@ You can input any marvel character in the search box. Based on the input, first 
 
 ## Screenshot
 <img width="958" alt="Screenshot" src="https://github.com/Vishalini24/Superhero_Hunter/assets/63181262/aa9d35de-5b57-4e05-8967-7b387c8db72e">
+<img width="959" alt="Screenshot 1" src="https://github.com/Vishalini24/Superhero_Hunter/assets/63181262/030c9102-d7e6-4efa-a79f-5070330bb019">
 
